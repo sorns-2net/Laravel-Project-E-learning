@@ -1,0 +1,23 @@
+#uploadCourse{
+    width: 40%;
+    padding: 50px;
+    border: 1px solid #57473A;
+    align-items: center;
+    justify-content: center;
+    /* padding-left: 30%; */
+    position: relative;
+    left: 30%;
+    
+}
+select{
+    width: 500px;
+    font-size: 20px;
+}
+#btnsubmit{
+    background-color:#F9B86D ;
+    width: 20vh;
+    height: 4vh;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+}

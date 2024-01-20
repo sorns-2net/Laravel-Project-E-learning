@@ -1,0 +1,11 @@
+table{
+    border-collapse: collapse; width: 100%; border: 1px solid #c5c5c5;
+}
+tr th{
+    background: #3d3d3d; color: #fff; padding: 8px;
+    border: 1px solid #c5c5c5;
+}
+tr td{
+    background: #6e6e6e; color: #fff; padding: 6px;
+    border: 1px solid #c5c5c5;
+}
